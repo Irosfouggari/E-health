@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/DoctorMenu.jsp=UTF-8
+encoding//WebContent/about.jsp=UTF-8
+encoding//src/com/main/egeia/models/Patient.java=UTF-8
+encoding//src/com/main/egeia/models/Users.java=UTF-8
+encoding//src/com/main/egeia/servlets/DeleteDoctor.java=UTF-8
